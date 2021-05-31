@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, SpringBoot, and BigData.
 - 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on Java projects
-- 📫 How to reach me at fuzail485@gmail.com
+- 📫 How to reach me at fuzailkhan485@gmail.com
 
 <!---
 fuzailkhan2498/fuzailkhan2498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
